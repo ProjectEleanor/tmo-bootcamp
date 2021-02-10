@@ -1,0 +1,31 @@
+/* CSS Document */
+
+#svc-reply {
+	background-color: lightgray;
+	border-style: none;
+	scroll-behavior: smooth;
+}
+
+.svc-reply-box {
+	background-color: lightgray;
+	border-color: darkgray;	
+	border-style: solid;
+	border-width: thin;
+	padding: 0;
+	margin: 0;
+} 
+
+.svc-reply-hdr {
+	background-color: deeppink;
+	border-color: darkgray;	
+	border-style: solid;
+	border-width: thin;
+	width: auto;
+	padding-left:5px;
+	padding-right: 5px;
+	margin-left: -20px;
+	margin-top: -20px;
+	color: white;
+	display: inline-block;
+	
+}
