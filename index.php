@@ -131,6 +131,7 @@
 				  url: op+"/"+a+"/"+b,				  
 				  success: function( result ) {
 					rslt.value=result.rslt;
+					M.toast({html: 'Service Call: '+result.status});
 				  }
 				});		
 			}
